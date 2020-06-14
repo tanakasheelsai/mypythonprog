@@ -8,7 +8,8 @@ Writing some sample python programs
 
 -> Palindrome Number
 1. User must first enter the value of the integer and store it in a variable.
-2. The value of the integer is then stored in another temporary variable.
+Ex: Enter integer number in n -> n=12321
+2. The value of the integer is then stored in another temporary variable. Ex: Store original value in temp as temp=12321
 3. The while loop is used and the last digit of the number is obtained by using the modulus operator.
 4. The last digit is then stored at the one’s place, second last at the ten’s place and so on.
 5. The last digit is then removed by truly dividing the number with 10.
